@@ -1,0 +1,9 @@
+***IMPORTANT*** ***IMPORTANT*** ***IMPORTANT***
+***IMPORTANT*** ***IMPORTANT*** ***IMPORTANT***
+
+THIS IS NOT A SECURE VPN SOLUTION.  DO NOT USE THIS FOR MISSION CRITICAL ANYTHING!!!!
+
+Secure network comms is hard.  Secure authentication is even harder.
+Crypto implementation is really damn hard.  None of this has been vetted.
+
+For example use of the TunTap system ONLY.
