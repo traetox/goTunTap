@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"../tap"
+	tap "github.com/traetox/goTunTap"
 )
 
 var (
